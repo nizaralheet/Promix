@@ -1,0 +1,11 @@
+
+
+#	Front
+#	default color: 5294e2 for Promix
+oldfront={oldfront}
+newfront={newfront}
+
+
+sed -i "s/#404453/$oldfront/g" "$1"
+sed -i "s/$oldfront/$newfront/g" "$1"
+
