@@ -26,6 +26,6 @@ Promax is a mix of deepin and tela-cricle icon-theme
 - enjoy
   
 #### to uninstall 🫥  you could run this in the cloned repo 
-```
-./promix uninstall
-```
+  ```
+  ./promix uninstall
+  ```
