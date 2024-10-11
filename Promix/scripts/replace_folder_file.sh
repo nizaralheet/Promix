@@ -1,4 +1,4 @@
-
+#!/usr/bin/env bash
 
 #	Front
 #	default color: 5294e2 for Promix
