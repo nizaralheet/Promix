@@ -17,7 +17,7 @@ Promax is a mix of deepin and tela-cricle icon-theme
    ./promix.sh install
   ```
 - enjoy
-#### note : to apply new colors you should run :
+### ‼️ note ‼️ : to apply new colors you should run :
 ```
 ./.local/share/icons/Promix/scripts/replace_script.sh
 ```
