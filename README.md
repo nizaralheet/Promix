@@ -8,6 +8,7 @@ Promax is a mix of deepin and tela-cricle icon-theme
 
 ## Installation 
 ### for easy install 
+- make sure you have WPGTK installed
 - run this in your terminal
   
   ```
@@ -16,12 +17,12 @@ Promax is a mix of deepin and tela-cricle icon-theme
    chmod +x promix.sh
    ./promix.sh install
   ```
-- enjoy
-### ‼️ note ‼️ : to apply new colors you should run :
-```
-./.local/share/icons/Promix/scripts/replace_script.sh
-```
-  and you could add it to the commands of wpgtk to do it automatically after applying new wallpaper 
+
+> ### ‼️ Important note ‼️  to apply new colors you should run :
+>```
+>./.local/share/icons/Promix/scripts/replace_script.sh
+>```
+> and you could add it to the commands of wpgtk to do it automatically after applying new wallpaper 
   
  ### for manual install 
 - clone the repo then copy the Promix folder theme to `.local/share/icons`
