@@ -61,7 +61,7 @@ install_theme() {
     gtk-update-icon-cache -f -t "$ICON_TARGET_DIR/Promix"
     check_success "Failed to update GTK icon cache"
     print_status "GTK icon cache updated for Promix theme"
-
+    chmod +x ~/.local/share/icons/Promix/scripts/*.sh
     print_status "Installation complete."
 }
 
